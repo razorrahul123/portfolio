@@ -6,7 +6,7 @@ const Experience = () => (
     <div className="info-main-section">
       <div className="workCard">
         <div className="badge-container">
-          <span className="badge-text workCard-badge">Jan, 2020 - present</span>
+          <span className="badge-text workCard-badge">Jan, 2020 - Sep, 2020</span>
         </div>
         <div className="workCard-role">Software Developer</div>
         <div className="workCard-company">Xcelerator</div>
@@ -71,7 +71,7 @@ const Experience = () => (
 
       <div className="workCard">
         <div className="badge-container">
-          <span class="badge-text workCard-badge">July, 2018 - June, 2019</span>
+          <span class="badge-text workCard-badge">July, 2018 - Sep, 2018</span>
         </div>
         <div className="workCard-role">Intern</div>
         <div className="workCard-company">Samsung R&amp;D Institute, Noida</div>
